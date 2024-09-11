@@ -1,0 +1,8 @@
+com/blog/entities/Comment.class
+com/blog/MainApp.class
+com/blog/util/HibernateUtil.class
+com/blog/dao/UserDAO.class
+com/blog/dao/PostDAO.class
+com/blog/entities/User.class
+com/blog/entities/Category.class
+com/blog/entities/Post.class
